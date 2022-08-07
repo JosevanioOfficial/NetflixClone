@@ -1,0 +1,42 @@
+
+.sign_backg{
+    background: linear-gradient(to bottom, 
+    rgba(0, 0, 0, .7) 20%, 
+    rgba(0, 0, 0, .5) 50%, 
+    rgba(0, 0, 0, 1) 100%), 
+    url("../public/netflix_backg.jpg");
+    background-size: cover;
+    position: relative;
+}
+
+#signin_small_btn{
+    color: white;
+    background-color: var(--red);
+    border: none;
+    font-size: 14px;
+
+}
+#signin_big_btn{
+    color: white;
+    background-color: var(--red);
+    border: none;
+    width: fit-content;
+    font-size: 14px;
+    border-radius: 3px;
+}
+#signininput{
+    width: 350px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 14px;
+}
+@media (min-width: 768px){
+    #signininput{
+        width: 450px;
+        height: 70px;
+    }
+    #signin_big_btn{
+        font-size: 30px;
+        border-radius: 0;
+    }
+}
