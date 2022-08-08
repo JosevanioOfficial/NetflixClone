@@ -2,8 +2,10 @@
 const nextConfig = {
     reactStrictMode: true,
     swcMinify: true,
-    images: {
-        domains: ['firebasestorage.googleapis.com'],
+    experimental: {
+        images: {
+            unoptimized: true,
+        },
     },
     env: {
         apiKey: "AIzaSyCCWEJwKSBhBG4ow954GH9MvAxxVdL7MGA",
