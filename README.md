@@ -1,14 +1,16 @@
-# Netflix Clone (Made by por Josevânio António / Feito por Josevânio António)
+# Netflix Clone
 
 ## Website [https://netflixwebclone.web.app/](https://netflixwebclone.web.app/)<br/>
+
+**Made by por Josevânio António / Feito por Josevânio António**
 
 ### Netflix website clone / Clone do website da Netflix
 
 Despite not being complete, the project allows for a temporary login.<br/>
-Apesar de não estar completo, o projecto permite fazer um login temporário.<br/>
+_Apesar de não estar completo, o projecto permite fazer um login temporário.<br/>_
 
 Tools used:<br/>
-Ferramentas usadas:<br/>
+_Ferramentas usadas:<br/>_
 
 Firebase<br/>
 Animate<br/>
@@ -21,8 +23,8 @@ Swiper<br/>
 To open the program on your computer in developer mode [http://localhost:3000](http://localhost:3000):<br/>
 Clone and use the commands below<br/>
 
-Para abrir o programa no seu computador no modo desenvolvedor [http://localhost:3000](http://localhost:3000):<br/>
-Faça o clone e use os comandos abaixo<br/>
+_Para abrir o programa no seu computador no modo desenvolvedor [http://localhost:3000](http://localhost:3000):<br/>_
+_Faça o clone e use os comandos abaixo<br/>_
 
 ```bash
 npm install
@@ -36,12 +38,12 @@ yarn dev
 
 ## Main page
 
-## Página principal
+## _Página principal_
 
 ![alt text](netflixclone.PNG)
 
 ## User page
 
-## Página do usuário
+## _Página do usuário_
 
 ![alt text](netflixclone2.PNG)
