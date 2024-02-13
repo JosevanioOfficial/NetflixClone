@@ -1,26 +1,28 @@
-## Netflix Clone (Made by por Josevânio António / Feito por Josevânio António)
+# Netflix Clone (Made by por Josevânio António / Feito por Josevânio António)
 
-### Website [https://netflixwebclone.web.app/](https://netflixwebclone.web.app/) - Netflix website clone / Clone do website da Netflix
+## Website [https://netflixwebclone.web.app/](https://netflixwebclone.web.app/)<br/>
 
-Despite not being complete, the project allows for a temporary login.
-Apesar de não estar completo, o projecto permite fazer um login temporário.
+### Netflix website clone / Clone do website da Netflix
 
-Tools used:
-Ferramentas usadas:
+Despite not being complete, the project allows for a temporary login.<br/>
+Apesar de não estar completo, o projecto permite fazer um login temporário.<br/>
 
-Firebase
-Animate
-Bootstrap
-Bootstrap-icons
-Next JS
-React
-Swiper
+Tools used:<br/>
+Ferramentas usadas:<br/>
 
-To open the program on your computer in developer mode [http://localhost:3000](http://localhost:3000):
-Clone and use the commands below
+Firebase<br/>
+Animate<br/>
+Bootstrap<br/>
+Bootstrap-icons<br/>
+Next JS<br/>
+React<br/>
+Swiper<br/>
 
-Para abrir o programa no seu computador no modo desenvolvedor [http://localhost:3000](http://localhost:3000):
-Faça o clone e use os comandos abaixo
+To open the program on your computer in developer mode [http://localhost:3000](http://localhost:3000):<br/>
+Clone and use the commands below<br/>
+
+Para abrir o programa no seu computador no modo desenvolvedor [http://localhost:3000](http://localhost:3000):<br/>
+Faça o clone e use os comandos abaixo<br/>
 
 ```bash
 npm install
